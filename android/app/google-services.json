@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379930233721",
+    "project_id": "dfc-flutternagpur",
+    "storage_bucket": "dfc-flutternagpur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379930233721:android:0abc02619951f90f3c3da8",
+        "android_client_info": {
+          "package_name": "com.example.auth_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379930233721-4b9sa5b5fvfjlnq2qf21s0e51ktg6oa6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvHTC5dVfYrLn070AVMP-hJ-X7OLu4BrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379930233721-4b9sa5b5fvfjlnq2qf21s0e51ktg6oa6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
